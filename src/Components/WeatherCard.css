@@ -1,0 +1,21 @@
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2vw;
+    width: 50%;
+    height: 20%;
+    margin-top: 5%;
+    padding: 0%;
+    border: 1px solid black;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/007/922/253/small/heavy-rain-in-dark-sky-rainy-season-clouds-and-storm-weather-nature-background-flood-natural-disaster-illustration-vector.jpg");
+    background: rgba(255,255,255,0.2);
+    border-top: rgba(255,255,255,0.2);
+    border-left: rgba(255,255,255,0.2);
+    backdrop-filter: blur(5px);
+}
+.container{
+    display: flex;
+    height: 50%;
+    justify-content: center;
+}
